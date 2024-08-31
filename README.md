@@ -3,15 +3,27 @@
 # Features
 
 Shorten URL: Convert a long URL into a shortened version.
+
+
 Redirect URL: Redirect users to the original URL using the shortened version.
+
+
 RESTful API: Exposes endpoints for shortening and redirecting URLs.
+
+
 Error Handling: Handles invalid URLs and missing resources gracefully.
 
 # Technologies Used
 
 Backend: Spring Boot
+
+
 Database: MongoDB
+
+
 Java Version: 17
+
+
 Build Tool: Maven
 
 # Project Structure
@@ -38,4 +50,6 @@ URL_Shortener/
 # Contact
 
 Author: Balram Ishwar
+
+
 Email: ishwarbalram22@gmail.com
